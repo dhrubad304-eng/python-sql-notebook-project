@@ -29,9 +29,8 @@ It includes data exploration, transformations, SQL logic, and step-by-step execu
 3. Run the cells in order to reproduce the full analysis.
 4. Modify or extend the logic as needed for further experimentation.
 
-## Use Case
-This project is suitable for:
-- Learning data analysis concepts
-- Portfolio showcases on GitHub
-- Academic submissions and demonstrations
-- Reusable analysis templates
+## **Author & Contact**
+- Dhruba Debnath
+- EX - BDA-(DATA) at Urban Company | MBA in Marketing 
+- Email: dhrubad304@gmail.com
+- LinkedIn: https://www.linkedin.com/in/dhruba-debnath/?skipRedirect=true
