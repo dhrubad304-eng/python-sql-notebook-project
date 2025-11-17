@@ -1,5 +1,8 @@
 # Data Analysis Notebook Project
 
+![Project Banner](https://github.com/dhrubad304-eng/python-sql-notebook-project/blob/e983351a1f07fa80cd4aad1fff92385f1df8f90a/project_png.png)
+
+
 This repository contains a Jupyter Notebook that demonstrates a complete data analysis workflow.  
 It includes data exploration, transformations, SQL logic, and step-by-step execution for clarity and learning.
 
